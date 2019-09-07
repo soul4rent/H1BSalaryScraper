@@ -54,7 +54,7 @@ if __name__ == "__main__":
 
     # make graph
     plt.plot(all_salaries)
-    plt.ylabel('Salary (Los Angeles')
+    plt.ylabel('Salary (Los Angeles)')
     plt.xlabel("Data Point")
     plt.show()
 
